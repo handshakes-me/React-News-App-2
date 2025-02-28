@@ -1,0 +1,6 @@
+# filepath: /d:/Reacttt 2 news/.gitignore
+node_modules/
+dist/
+.env
+.DS_Store
+
